@@ -1,0 +1,387 @@
+----------------------------------------------------------------
+VARIABLE FIRST PLAYER
+----------------------------------------------------------------
+
+--- Statistics of random VS greedy ---
+	Number of simulations = 5000
+	Player A win percentage (going first 50% of times) = 1.64%
+	Player B win percentage (going first 50% of times) = 97.88%
+	Tie percentage = 0.48%
+
+	--- Payoff ---
+	Mean = -1.382
+	Standard deviation = 20.177
+	Variance = 407.096
+
+
+
+--- Statistics of greedy VS greedy ---
+	Number of simulations = 5000
+	Player A win percentage (going first 49% of times) = 48.56%
+	Player B win percentage (going first 51% of times) = 48.26%
+	Tie percentage = 3.18%
+
+	--- Payoff ---
+	Mean = -1.067
+	Standard deviation = 12.046
+	Variance = 145.109
+
+
+
+--- Statistics of random VS minimax ---
+	-------------------- depth = 2 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 50% of times) = 0.98%
+	Player B win percentage (going first 50% of times) = 98.56%
+	Tie percentage = 0.46%
+
+	--- Payoff ---
+	Mean = -1.709
+	Standard deviation = 21.370
+	Variance = 456.673
+
+
+	-------------------- depth = 3 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 51% of times) = 0.62%
+	Player B win percentage (going first 49% of times) = 99.18%
+	Tie percentage = 0.2%
+
+	--- Payoff ---
+	Mean = -2.502
+	Standard deviation = 22.176
+	Variance = 491.772
+
+
+	-------------------- depth = 4 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 50% of times) = 0.48%
+	Player B win percentage (going first 50% of times) = 99.16%
+	Tie percentage = 0.36%
+
+	--- Payoff ---
+	Mean = -2.376
+	Standard deviation = 22.065
+	Variance = 486.876
+
+
+
+--- Statistics of greedy VS minimax ---
+	-------------------- depth = 2 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 49% of times) = 23.86%
+	Player B win percentage (going first 51% of times) = 73.72%
+	Tie percentage = 2.42%
+
+	--- Payoff ---
+	Mean = -1.896
+	Standard deviation = 13.384
+	Variance = 179.126
+
+
+	-------------------- depth = 3 --------------------
+	--- Statistics of greedy VS minimax ---
+	Number of simulations = 5000
+	Player A win percentage (going first 51% of times) = 15.24%
+	Player B win percentage (going first 49% of times) = 82.96%
+	Tie percentage = 1.80%
+
+	--- Payoff ---
+	Mean = -2.042
+	Standard deviation = 15.118
+	Variance = 228.542
+
+
+	-------------------- depth = 4 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 50% of times) = 11.66%
+	Player B win percentage (going first 50% of times) = 86.74%
+	Tie percentage = 1.6%
+
+	--- Payoff ---
+	Mean = -2.170
+	Standard deviation = 14.504
+	Variance = 210.354
+	
+	
+
+--- Statistics of minimax VS minimax ---
+	-------------------- depth = 2 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 50% of times) = 47.80%
+	Player B win percentage (going first 50% of times) = 48.86%
+	Tie percentage = 3.34%
+
+	--- Payoff ---
+	Mean = -3.748
+	Standard deviation = 10.871
+	Variance = 118.182
+
+
+	-------------------- depth = 3 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 49% of times) = 47.90%
+	Player B win percentage (going first 51% of times) = 48.26%
+	Tie percentage = 3.84%
+
+	--- Payoff ---
+	Mean = -3.058
+	Standard deviation = 9.614
+	Variance = 92.433
+
+
+	-------------------- depth = 4 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 50% of times) = 47.44%
+	Player B win percentage (going first 50% of times) = 48.74%
+	Tie percentage = 3.82%
+
+	--- Payoff ---
+	Mean = -3.097
+	Standard deviation = 8.931
+	Variance = 79.762
+
+
+
+----------------------------------------------------------------
+FIXED FIRST PLAYER
+----------------------------------------------------------------
+
+--- Statistics of random VS random ---
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 44.42%
+	Player B win percentage (going first 0% of times) = 52.02%
+	Tie percentage = 3.56%
+
+	--- Payoff ---
+	Mean = -1.006
+	Standard deviation = 10.235
+	Variance = 104.753
+
+
+--- Statistics of random VS greedy ---
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 0.94%
+	Player B win percentage (going first 0% of times) = 98.84%
+	Tie percentage = 0.22%
+
+	--- Payoff ---
+	Mean = -20.688
+	Standard deviation = 7.423
+	Variance = 55.094
+
+
+
+--- Statistics of greedy VS random ---
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 96.08%
+	Player B win percentage (going first 0% of times) = 3.10%
+	Tie percentage = 0.82%
+
+	--- Payoff ---
+	Mean = 16.450
+	Standard deviation = 8.210
+	Variance = 67.408
+
+
+--- Statistics of greedy VS greedy ---
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 40.36%
+	Player B win percentage (going first 0% of times) = 56.46%
+	Tie percentage = 3.18%
+
+	--- Payoff ---
+	Mean = -2.434
+	Standard deviation = 12.021
+	Variance = 144.494
+
+
+
+--- Statistics of random VS minimax ---
+	-------------------- depth = 2 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 0.36%
+	Player B win percentage (going first 0% of times) = 99.54%
+	Tie percentage = 0.10%
+
+	--- Payoff ---
+	Mean = -22.508
+	Standard deviation = 6.931
+	Variance = 48.037
+
+
+	-------------------- depth = 3 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 0.32%
+	Player B win percentage (going first 0% of times) = 99.62%
+	Tie percentage = 0.06%
+
+	--- Payoff ---
+	Mean = -23.474
+	Standard deviation = 6.355
+	Variance = 40.389
+
+
+	-------------------- depth = 4 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 0.06%
+	Player B win percentage (going first 0% of times) = 99.88%
+	Tie percentage = 0.06%
+
+	--- Payoff ---
+	Mean = -23.649
+	Standard deviation = 6.233
+	Variance = 38.849
+
+
+
+--- Statistics of minimax VS random ---	
+	-------------------- depth = 2 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 97.60%
+	Player B win percentage (going first 0% of times) = 1.84%
+	Tie percentage = 0.56%
+
+	--- Payoff ---
+	Mean = 17.828
+	Standard deviation = 7.923
+	Variance = 62.772
+
+
+	-------------------- depth = 3 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 98.44%
+	Player B win percentage (going first 0% of times) = 1.22%
+	Tie percentage = 0.34%
+
+	--- Payoff ---
+	Mean = 18.635
+	Standard deviation = 7.523
+	Variance = 56.589
+
+
+	-------------------- depth = 4 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 98.68%
+	Player B win percentage (going first 0% of times) = 0.94%
+	Tie percentage = 0.38%
+
+	--- Payoff ---
+	Mean = 18.462
+	Standard deviation = 7.191
+	Variance = 51.708
+
+
+
+--- Statistics of greedy VS minimax ---
+	-------------------- depth = 2 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 14.80%
+	Player B win percentage (going first 0% of times) = 83.46%
+	Tie percentage = 1.74%
+
+	--- Payoff ---
+	Mean = -11.020
+	Standard deviation = 10.624
+	Variance = 112.863
+
+
+	-------------------- depth = 3 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 7.88%
+	Player B win percentage (going first 0% of times) = 91.16%
+	Tie percentage = 0.96%
+
+	--- Payoff ---
+	Mean = -14.303
+	Standard deviation = 9.661
+	Variance = 93.336
+
+
+	-------------------- depth = 4 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 5.60%
+	Player B win percentage (going first 0% of times) = 93.22%
+	Tie percentage = 1.18%
+
+	--- Payoff ---
+	Mean = -14.548
+	Standard deviation = 8.858
+	Variance = 78.464
+
+
+
+--- Statistics of minimax VS greedy ---
+	-------------------- depth = 2 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 61.48%
+	Player B win percentage (going first 0% of times) = 35.74%
+	Tie percentage = 2.78%
+
+	--- Payoff ---
+	Mean = 3.843
+	Standard deviation = 11.642
+	Variance = 135.532
+
+
+	-------------------- depth = 3 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 73.32%
+	Player B win percentage (going first 0% of times) = 23.96%
+	Tie percentage = 2.72%
+
+	--- Payoff ---
+	Mean = 7.350
+	Standard deviation = 10.809
+	Variance = 116.845
+
+
+	-------------------- depth = 4 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 77.02%
+	Player B win percentage (going first 0% of times) = 20.32%
+	Tie percentage = 2.66%
+
+	--- Payoff ---
+	Mean = 7.702
+	Standard deviation = 9.730
+	Variance = 94.680
+
+
+
+--- Statistics of minimax VS minimax ---
+	-------------------- depth = 2 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 29.14%
+	Player B win percentage (going first 0% of times) = 67.98%
+	Tie percentage = 2.88%
+
+	--- Payoff ---
+	Mean = -5.264
+	Standard deviation = 10.950
+	Variance = 119.896
+
+
+	-------------------- depth = 3 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 29.82%
+	Player B win percentage (going first 0% of times) = 66.72%
+	Tie percentage = 3.46%
+
+	--- Payoff ---
+	Mean = -4.809
+	Standard deviation = 9.635
+	Variance = 92.825
+
+
+	-------------------- depth = 4 --------------------
+	Number of simulations = 5000
+	Player A win percentage (going first 100% of times) = 26.12%
+	Player B win percentage (going first 0% of times) = 70.28%
+	Tie percentage = 3.60%
+
+	--- Payoff ---
+	Mean = -5.103
+	Standard deviation = 8.871
+	Variance = 78.696
+
